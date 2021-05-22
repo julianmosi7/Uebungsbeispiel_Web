@@ -1,0 +1,15 @@
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\bin\Debug\net5.0\Uebungsbeispiel_WebDb.deps.json
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\bin\Debug\net5.0\Uebungsbeispiel_WebDb.runtimeconfig.json
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\bin\Debug\net5.0\Uebungsbeispiel_WebDb.runtimeconfig.dev.json
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\bin\Debug\net5.0\Uebungsbeispiel_WebDb.dll
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\bin\Debug\net5.0\ref\Uebungsbeispiel_WebDb.dll
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\bin\Debug\net5.0\Uebungsbeispiel_WebDb.pdb
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.csprojAssemblyReference.cache
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.AssemblyInfoInputs.cache
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.AssemblyInfo.cs
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.csproj.CoreCompileInputs.cache
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.dll
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\ref\Uebungsbeispiel_WebDb.dll
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.pdb
+F:\Documents\School\5.Klasse\POS\Uebungsbeispiel_Web\Uebungsbeispiel_WebDb\obj\Debug\net5.0\Uebungsbeispiel_WebDb.genruntimeconfig.cache

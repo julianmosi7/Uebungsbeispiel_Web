@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web.csproj": {}
+  },
+  "projects": {
+    "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_WebDb\\Uebungsbeispiel_WebDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_WebDb\\Uebungsbeispiel_WebDb.csproj",
+        "projectName": "Uebungsbeispiel_WebDb",
+        "projectPath": "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_WebDb\\Uebungsbeispiel_WebDb.csproj",
+        "packagesPath": "C:\\Users\\mosha\\.nuget\\packages\\",
+        "outputPath": "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_WebDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "P:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "P:\\Programs\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "P:\\Programs\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web.csproj",
+        "projectName": "Uebungsbeispiel_Web",
+        "projectPath": "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web.csproj",
+        "packagesPath": "C:\\Users\\mosha\\.nuget\\packages\\",
+        "outputPath": "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "P:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "P:\\Programs\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_WebDb\\Uebungsbeispiel_WebDb.csproj": {
+                "projectPath": "F:\\Documents\\School\\5.Klasse\\POS\\Uebungsbeispiel_Web\\Uebungsbeispiel_WebDb\\Uebungsbeispiel_WebDb.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "P:\\Programs\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
